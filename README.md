@@ -1,4 +1,4 @@
-# This is the *Simple Chat Bot with Java* project I made at Hyperskill.
+# *Simple Chat Bot with Java*
 
 ## Description:
 
