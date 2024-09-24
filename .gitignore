@@ -5,9 +5,6 @@
 .gradle/
 build
 
-# IntelliJ
-*.iml
-
 # old stages
 /Simple Chat Bot with Java/*
 !/Simple Chat Bot with Java/task/
