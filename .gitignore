@@ -1,13 +1,12 @@
 # course config files
 *.yaml
 
-# gradle
+# Gradle
 .gradle/
 build
 
-
-# idea config
-.idea
+# IntelliJ
+*.iml
 
 # old stages
 /Simple Chat Bot with Java/*
